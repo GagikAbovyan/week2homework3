@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">week2homework3</string>
+    <string name="elizabeth">Elizabeth</string>
+    <string name="image_elizabeth">Image_Elizabeth</string>
+    <string name="in_search">In search</string>
+    <string name="user">user</string>
+    <string name="bot">bot</string>
+    <string name="input">input</string>
+</resources>
